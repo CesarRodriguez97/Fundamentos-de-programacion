@@ -1,4 +1,4 @@
-# Glería de arte 3D
+# Galería de arte 3D
 Objetivo: Generar una galería de arte 3D, con base al Día de Muertos en la zona de la península de Yucatán con el fin dar a conocer las costumbres y tradiciones del lugar.
 
 Festividad: Día de muertos
