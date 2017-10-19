@@ -1,7 +1,8 @@
-## Mapa del sitio Web
+## Mapa del sitio Web:
 
 ## ¿One page o Multi page?
 
-## Patrón de navegación
+## Patrón de navegación:
 
-## Objeto (definición conceptual)
+## Objeto (definición conceptual):
+
